@@ -37,5 +37,5 @@ Esta é uma solução para o [desafio do componente do cartão de perfil no Fron
 
 ## Autor
 
-- Website - [Maicon Alves Guedes](https://github.com/Maicaoxd)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Maicaoxd)
+- GitHub - [Maicon Alves Guedes](https://github.com/Maicaoxd)
+- Frontend Mentor - [@Maicaoxd](https://www.frontendmentor.io/profile/Maicaoxd)
