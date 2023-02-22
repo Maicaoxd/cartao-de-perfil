@@ -8,31 +8,36 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/style.css">
   <title>Frontend Mentor | Profile card component</title>
 </head>
 
 <body>
-  <main class="cartao">
-    <div class="foto">
-      <img src="./images/image-victor.jpg" alt="Imagem Victor">
-      <h1>Victor Crest</h1>
-      <h2>26</h2>
-      <h2>London</h2>
-    </div>
-    <div class="informacoes">
-      <ul class="numeros">
-        <li>80K</li>
-        <li>803K</li>
-        <li>1.4K</li>
-      </ul>
-      <ul class="complementos">
-        <li>Followers</li>
-        <li>Likes</li>
-        <li>Photos</li>
+  <main class="container">
+    <div class="cartao">
+      <div class="informacoes-perfil">
+        <img src="./images/image-victor.jpg" alt="Imagem Victor">
+        <p>Victor Crest <span class="idade">26</span></p>
+        <span class="cidade">London</span>
+      </div>
+      <hr>
+      <ul class="numeros-perfil">
+        <li class="informacoes">
+          <p class="numero">80K</p>
+          <p class="tipo-numero">Followers</p>
+        </li>
+        <li class="informacoes">
+          <p class="numero">803K</p>
+          <p class="tipo-numero">Likes</p>
+        </li>
+        <li class="informacoes">
+          <p class="numero">1.4K</p>
+          <p class="tipo-numero">Photos</p>
+        </li>
       </ul>
     </div>
   </main>
 </body>
-font-family: 'Kumbh Sans', sans-serif;
 
 </html>
