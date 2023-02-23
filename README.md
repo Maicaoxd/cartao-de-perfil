@@ -20,7 +20,7 @@ Esta é uma solução para o [desafio do componente do cartão de perfil no Fron
 
 ### Captura de tela
 
-![](./Screenshot.jpg)
+![](design/Screenshot.jpg)
 
 ### Links
 
